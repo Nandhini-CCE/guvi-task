@@ -11,6 +11,7 @@ can update,
 Flow : Register > Login > Profile
 
 Points to remember :
+
 ● HTML, JS, CSS, and PHP code should be in separate files, none of the 
 codes must co-exist in the same file.
 
